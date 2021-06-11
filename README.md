@@ -2,7 +2,6 @@
 - 👀 I’m interested in ... Data science , cyber security.
 - 🌱 I’m currently learning ... Data science
 - 📫 How to reach me ...pandasivaji@gmail.com
-- 
 
 <!---
 sivajipsb/sivajipsb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
