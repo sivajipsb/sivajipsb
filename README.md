@@ -68,7 +68,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/sivaji-panda-5a789519a/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://mobile.twitter.com/Siva_jeee"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<!-- <a href = "https://mobile.twitter.com/Siva_jeee"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> -->
 
 <!-- <a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
 
